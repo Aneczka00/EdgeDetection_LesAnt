@@ -1,8 +1,8 @@
-# [Your Project Title Here]
+# [Edge Detection_LesAnt]
 
 ## Repository Link
 
-[https://github.com/your_username/your_project_name]
+[https://github.com/Aneczka00/EdgeDetection_LesAnt]
 
 ## Description
 
