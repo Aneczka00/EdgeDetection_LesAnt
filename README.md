@@ -8,16 +8,6 @@
 
 [Short project description here. Briefly summarize the problem you are trying to solve and the approach you're taking.]
 
-### Task Type
-
-[Image Classification / Chatbot / Regression / Clustering / Other]
-
-### Results Summary
-
-- **Best Model:** [Name of the best-performing model]
-- **Evaluation Metric:** [e.g., Accuracy, F1-Score, MSE]
-- **Result:** [e.g., 95% accuracy, F1-score of 0.8]
-
 ## Documentation
 
 1. **[Literature Review](0_LiteratureReview/README.md)**
