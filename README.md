@@ -6,7 +6,7 @@
 
 ## Description
 
-[Short project description here. Briefly summarize the problem you are trying to solve and the approach you're taking.]
+[This project aims to apply edge detection techniques to gravity data from the Caribbean region — specifically focusing on the area stretching from the Lesser Antilles to the Demerara Plateau. The goal is to identify sharp edges in the Bouguer anomaly data that could indicate significant geological features. This work is part of an internship project, with a particular focus on detecting structures that may suggest the presence of a Cretaceous-Jurassic Line (CJL). Identifying such features could contribute to a better understanding — and potentially a redefinition — of the South American–North American (SA–NA) plate boundary. By using a machine learning approach, this project hopes to enhance the detection of edges in the data and support more accurate geological interpretations.]
 
 ## Documentation
 
