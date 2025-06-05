@@ -7,7 +7,7 @@ Approaches or solutions that have been tried before on similar projects.
 - **Source 1**: [New Kinematic Model of the Early Opening of the
 Equatorial Atlantic Realm (Lesourd-Laux et al., 2025)]
 
-  - **[https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024TC008713?af=R]()**  
+  - **[Link](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024TC008713?af=R)**  
   
   - **Objective**:  
 This study aims to develop a new kinematic model for the early opening of the Equatorial Atlantic Ocean, addressing challenges posed by limited magnetic data and complex fracture zones. Its goal is to re-evaluate tectonic settings, including continental margins and the Cretaceous Jurassic Line (CJL). The research also intends to improve understanding of the triple junction's evolution between the Equatorial Atlantic, Central Atlantic, and proto-Caribbean oceans, and its implications for Lesser Antilles Arc subduction hazards.
