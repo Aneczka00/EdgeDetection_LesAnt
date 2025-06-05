@@ -5,7 +5,7 @@ Approaches or solutions that have been tried before on similar projects.
 **Summary of Each Work**:
 
 - **Source 1**: [New Kinematic Model of the Early Opening of the
-Equatorial Atlantic Realm (Lesourd-Laux et al., 2025]
+Equatorial Atlantic Realm (Lesourd-Laux et al., 2025)]
 
   - **[https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024TC008713?af=R]()**  
   
