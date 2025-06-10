@@ -23,7 +23,7 @@ The researchers used GPlates and PyGPlates software to create their kinematic re
   
     The study used identified FZs, especially the Cretaceous Jurassic Line (CJL), to reconstruct the ocean's opening direction and initial continental fits. Seismic         data helped interpret the CJL's structure and sedimentary infill. The model proposes a two-phase rifting process, with distinct plate movements in each phase,           constrained by known timings and South Atlantic rotations.
 
-  - **Outcomes**:  
+  - **Outcomes**:   
 The study presents a new kinematic model for the Equatorial Atlantic, identifying two regions divided by the St Paul Fracture Zone. It outlines a two-phase rifting history: the first phase involved strike-slip movement between West Africa and the Guyana block during the Early Cretaceous, while the second phase saw northward movements leading to oblique rifting. The Cretaceous Jurassic Line (CJL) is identified as an Early Cretaceous transform fault that later became a rift zone, with chaotic sediments from this rifting. Additionally, the Amazon basins acted as a boundary for early plate movements. The model suggests significant implications for the Lesser Antilles Arc subduction zone, including revised oceanic boundaries and the subduction of Equatorial Atlantic crust around 3 million years ago, linked to intermediate earthquakes due to dehydration in the lithosphere.  
   
   - **Relation to the Project**:  
@@ -72,10 +72,10 @@ This study is a good reference for a comparative approach of different edge dete
 - **Source 4**: [AnomalyLLM: Few-Shot Anomaly Edge Detection in Dynamic Graphs with Large Language Models (Liu et al. (2024)]
 
   - **[Link](https://www.computer.org/csdl/proceedings-article/icdm/2024/066800a785/24w4taFG1UI)**
-  - **Objective**:
+  - **Objective**:  
 The objective of this study is to develop a novel few-shot anomaly detection method—AnomalyLLM—that can identify evolving and rare anomalous edges in dynamic graphs with minimal labeled data, overcoming the limitations of existing approaches which typically require abundant labels or only handle simple anomalies.
 
-  - **Methods**:
+  - **Methods**:  
   AnomalyLLM integrates Large Language Models (LLMs) with graph-based learning through three main components:  
 
     1) Dynamic-aware Contrastive Pretraining: Constructs temporal and structural subgraphs around each edge and uses a contrastive learning objective to distinguish            normal vs. anomalous patterns.  
@@ -84,8 +84,8 @@ The objective of this study is to develop a novel few-shot anomaly detection met
 
     3) In-Context Learning (ICL) for Few-Shot Detection: Constructs prompt templates for the LLM using a few labeled examples of a specific anomaly type, allowing the          model to classify new edges as anomalies using just those examples without fine-tuning.
 
-  - **Outcomes**:
+  - **Outcomes**:  
 AnomalyLLM significantly outperformed traditional methods in few-shot settings across four datasets, achieving AUC scores over 80% even with only 1–5 labeled samples per anomaly type. The model is anomaly type-agnostic, does not require fine-tuning of the LLM itself, and is computationally efficient at inference. Ablation studies validated the contribution of each proposed module to its overall performance.
 
-  - **Relation to the Project**:
+  - **Relation to the Project**:  
 ??
