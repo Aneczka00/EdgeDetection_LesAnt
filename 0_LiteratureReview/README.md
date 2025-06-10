@@ -89,3 +89,25 @@ AnomalyLLM significantly outperformed traditional methods in few-shot settings a
 
   - **Relation to the Project**:  
 ??
+
+- **Source 5**: [Tectonic reevaluation of West Cameroon domain: Insights from high-resolution gravity models and advanced edge detection methods (Yasmine et al., 2024)]
+
+  - **[Link](https://www.sciencedirect.com/science/article/pii/S0264370724000449)**
+
+  - **Objective**:  
+The objective of this study was to reassess the geological and tectonic structure of the West Cameroon region—particularly the Cameroon Volcanic Line (CVL)—using high-resolution satellite gravity data, in order to provide clearer, more accurate mapping of subsurface features and reduce uncertainties from earlier studies.
+
+   - **Methods**:  
+The study utilized the SGG-UGM-2 gravity model, a highly detailed satellite gravity dataset. Researchers applied several advanced edge detection techniques to this data to identify and delineate underground structures: 
+
+      a) **Balanced Horizontal Gradient (BHG)**: Used to highlight subsurface boundaries with high accuracy and low false detection.
+
+      b) **Tilt Angle of Horizontal Gradient (TAHG)** and **Improved TAHG (ImpTAHG)**: Provided enhanced boundary resolution.
+
+      c) **Tilt Depth**: Estimated the depth of geological sources.
+    The gravity data were decomposed into regional (deep) and residual (shallow) components to isolate structures at different depths.
+
+  - **Outcomes**:  
+The study mapped 333 lineaments, including newly identified NNW–SSE structures, and refined the understanding of five dominant structural directions. Key features such as Lakes Nyos and Monoun were confirmed to sit on major fractures. It also accurately mapped strike-slip faults (Bao, Bomana, Tiko, Ekona) and the boundaries of Mount Cameroon. The findings demonstrate overcompensated topography and active tectonic processes in the region. The BHG filter proved particularly reliable for deep structural interpretation.
+
+  - **Relation to the Project**:  
