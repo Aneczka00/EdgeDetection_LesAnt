@@ -73,7 +73,7 @@ This study is a good reference for a comparative approach of different edge dete
 
   - **[Link](https://www.computer.org/csdl/proceedings-article/icdm/2024/066800a785/24w4taFG1UI)**
   - **Objective**:  
-The objective of this study is to develop a novel few-shot anomaly detection method—AnomalyLLM—that can identify evolving and rare anomalous edges in dynamic graphs with minimal labeled data, overcoming the limitations of existing approaches which typically require abundant labels or only handle simple anomalies.
+The objective of this study is to develop a novel few-shot anomaly detection method — AnomalyLLM — that can identify evolving and rare anomalous edges in dynamic graphs with minimal labeled data, overcoming the limitations of existing approaches which typically require abundant labels or only handle simple anomalies.
 
   - **Methods**:  
   AnomalyLLM integrates Large Language Models (LLMs) with graph-based learning through three main components:  
