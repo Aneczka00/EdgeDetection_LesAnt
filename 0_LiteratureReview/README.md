@@ -64,8 +64,28 @@ The study reviewed existing edge detection techniques and tested them on synthet
   - **Outcomes**:  
 The study found that edge detectors vary widely in performance; traditional methods like THDR and ASA showed poor resolution, while first-derivative-based filters like VDR and TA often introduced false boundaries in complex zones. Mixed-class detectors such as LTHG, EHGA, and SF consistently outperformed others, offering sharper boundary definition, better amplitude balancing between shallow and deep sources, and greater resistance to noise. However, even these methods were sensitive to data noise, highlighting the trade-off between noise reduction (e.g., via upward continuation) and resolution. Application to the Molucca Sea revealed four deep tectonic boundaries and five earthquake depth zones, suggesting tectonic control from both multi-plate subduction and the PKMSSF fault system.  
                                        
-  - **Relation to the Project**:
+  - **Relation to the Project**:  
 This study is a good reference for a comparative approach of different edge detection methods, identifying the possible limitations, and deepening the understanding of edge detection in general.
 
     <img src="liu_et_al_2022.png" alt="Gravity Anomaly Map" width="450"/>
     
+- **Source 4**: [AnomalyLLM: Few-Shot Anomaly Edge Detection in Dynamic Graphs with Large Language Models (Liu et al. (2024)]
+
+  - **[Link](https://www.computer.org/csdl/proceedings-article/icdm/2024/066800a785/24w4taFG1UI)**
+  - **Objective**:
+The objective of this study is to develop a novel few-shot anomaly detection method—AnomalyLLM—that can identify evolving and rare anomalous edges in dynamic graphs with minimal labeled data, overcoming the limitations of existing approaches which typically require abundant labels or only handle simple anomalies.
+
+  - **Methods**:
+  AnomalyLLM integrates Large Language Models (LLMs) with graph-based learning through three main components:  
+
+    1) Dynamic-aware Contrastive Pretraining: Constructs temporal and structural subgraphs around each edge and uses a contrastive learning objective to distinguish            normal vs. anomalous patterns.  
+
+    2) Reprogramming-based Modality Alignment: Bridges the gap between graph embeddings and LLMs (which work with text) by reprogramming edge features into a format            interpretable by LLMs, using text-based prototypes and pseudo-labeling techniques.  
+
+    3) In-Context Learning (ICL) for Few-Shot Detection: Constructs prompt templates for the LLM using a few labeled examples of a specific anomaly type, allowing the          model to classify new edges as anomalies using just those examples without fine-tuning.
+
+  - **Outcomes**:
+AnomalyLLM significantly outperformed traditional methods in few-shot settings across four datasets, achieving AUC scores over 80% even with only 1–5 labeled samples per anomaly type. The model is anomaly type-agnostic, does not require fine-tuning of the LLM itself, and is computationally efficient at inference. Ablation studies validated the contribution of each proposed module to its overall performance.
+
+  - **Relation to the Project**:
+??
