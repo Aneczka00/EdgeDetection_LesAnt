@@ -127,8 +127,7 @@ Researchers used wide-angle seismic (WAS) data and gravity data to study the dee
      c) A modeling program called Rayinvr  
      d) Gravity data to help estimate rock densities  
      e) A method that builds the model layer by layer, using both velocity and reflection changes  
-
-The crust was divided into seven domains (A–G), each with different thickness, rock types, and tectonic history.  
+The crust was divided into seven domains (A–G), each with different thickness, rock types, and tectonic history.    
 
   - **Outcomes**:  
 The Demerara Plateau has a thick crust (up to 30 km) with high seismic velocities (>7 km/s), suggesting a mix of volcanic flows and continental material. The structure includes seaward-dipping reflectors (SDRs) and shows strong magmatic influence, possibly from a hotspot. The Moho reaches 37 km depth near the continent and thins sharply toward the ocean, with some areas showing very thin crust (2–3 km) or exposed serpentinized mantle. Crustal domains vary across the plateau, reflecting different formation phases linked to Jurassic rifting and Cretaceous transform faulting. The study supports the idea that TMPs form where rifting slows or stops at transform margins, causing heat buildup and volcanic activity.  
