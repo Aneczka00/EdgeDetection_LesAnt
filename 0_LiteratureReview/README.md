@@ -110,4 +110,28 @@ The study utilized the SGG-UGM-2 gravity model, a highly detailed satellite grav
   - **Outcomes**:  
 The study mapped 333 lineaments, including newly identified NNW–SSE structures, and refined the understanding of five dominant structural directions. Key features such as Lakes Nyos and Monoun were confirmed to sit on major fractures. It also accurately mapped strike-slip faults (Bao, Bomana, Tiko, Ekona) and the boundaries of Mount Cameroon. The findings demonstrate overcompensated topography and active tectonic processes in the region. The BHG filter proved particularly reliable for deep structural interpretation.
 
+  - **Relation to the Project**:
+
+- **Source 6**: [Volcanic influence during the formation of a transform marginal plateau: Insights from wide-angle seismic data along the northwestern Demerara Plateau (Padron et al., 2022)]
+
+  - **[Link](https://www.sciencedirect.com/science/article/pii/S0040195122003869)**
+
+  - **Objective**:  
+This study looks at how the Demerara Plateau, located offshore Suriname and French Guiana, was formed. It focuses on how volcanism and transform movement helped shape this type of feature, known as a Transform Marginal Plateau (TMP). The goal is to better understand how these plateaus form, especially where two ocean basins of different ages meet, like the Central and Equatorial Atlantic.
+
+   - **Methods**:  
+Researchers used wide-angle seismic (WAS) data and gravity data to study the deep structure of the crust. The data comes from a 2016 survey with two main profiles (MAR03 and MAR04). They used:  
+
+     a) Wide-angle seismic data from ocean-bottom seismometers (OBS)  
+     b) Seismic reflection data to map sediment layers  
+     c) A modeling program called Rayinvr  
+     d) Gravity data to help estimate rock densities  
+     e) A method that builds the model layer by layer, using both velocity and reflection changes  
+
+The crust was divided into seven domains (A–G), each with different thickness, rock types, and tectonic history.  
+
+  - **Outcomes**:  
+The Demerara Plateau has a thick crust (up to 30 km) with high seismic velocities (>7 km/s), suggesting a mix of volcanic flows and continental material. The structure includes seaward-dipping reflectors (SDRs) and shows strong magmatic influence, possibly from a hotspot. The Moho reaches 37 km depth near the continent and thins sharply toward the ocean, with some areas showing very thin crust (2–3 km) or exposed serpentinized mantle. Crustal domains vary across the plateau, reflecting different formation phases linked to Jurassic rifting and Cretaceous transform faulting. The study supports the idea that TMPs form where rifting slows or stops at transform margins, causing heat buildup and volcanic activity.  
+
   - **Relation to the Project**:  
+This paper is an important reference for gravity and seismic data. It provides useful data on crustal thickness and structure, which can be compared with other parts of the Equatorial Atlantic. The detailed seismic and gravity models help confirm that TMPs like the Demerara Plateau are key features when studying how continents break apart and how ocean basins open. It’s a helpful reference for understanding the deeper structure of the North American–South American plate boundary, as well as support the hypotheses we're trying to explore in this project.
