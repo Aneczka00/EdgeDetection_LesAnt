@@ -134,3 +134,25 @@ The Demerara Plateau has a thick crust (up to 30 km) with high seismic velocitie
 
   - **Relation to the Project**:  
 This paper is an important reference for gravity and seismic data. It provides useful data on crustal thickness and structure, which can be compared with other parts of the Equatorial Atlantic. The detailed seismic and gravity models help confirm that TMPs like the Demerara Plateau are key features when studying how continents break apart and how ocean basins open. It’s a helpful reference for understanding the deeper structure of the North American–South American plate boundary, as well as support the hypotheses we're trying to explore in this project.
+
+- **Source 7**: [Along-Arc Heterogeneity in Local Seismicity across the Lesser Antilles Subduction Zone from a Dense Ocean-Bottom Seismometer Network (Bie et al., 2019)]
+
+  - **[Link](https://pubs.geoscienceworld.org/ssa/srl/article-abstract/91/1/237/575207/Along-Arc-Heterogeneity-in-Local-Seismicity-across?redirectedFrom=fulltext)**
+
+  - **Objective**:  
+This study aimed to map seismic activity across the entire Lesser Antilles subduction zone with greater detail than ever before. The goals were to understand how fluids influence earthquake patterns, improve seismic hazard assessments, and produce the first unified 1D velocity model for accurate earthquake locations. The research also explored the structure of the arc, mantle wedge, and subducting slab.
+
+   - **Methods**:  
+A temporary network of 34 ocean-bottom seismometers (OBSs) operated from March 2016 to May 2017, alongside permanent and temporary land stations. Researchers:
+
+      a) Compiled a regional earthquake catalog from multiple sources
+      b) Manually picked P- and S-wave arrivals for 502 events
+      c) Selected 265 high-quality earthquakes for joint inversion of earthquake locations, velocity structure, and station corrections using VELEST
+      d) Included 63 active-source shots to improve shallow velocity constraints
+      e) Used the final 1D model to re-locate all manually picked events
+
+  - **Outcomes**:  
+The inversion resulted in an average crustal thickness of 27 km across the arc and back-arc. Deep intraslab earthquakes beneath Martinique and Dominica were linked to the subduction of fracture zones carrying water, supporting dehydration embrittlement as a key process. Unusual seismicity in the cold mantle wedge above ~65 km depth suggests active fluid pathways or rock hydration. A Mw 5.8 earthquake in 2017 occurred on a deep section of the plate interface, indicating a wider and deeper seismogenic zone than typically seen, with implications for larger possible earthquakes. The slab was found to dip more steeply than shown in global models. No large-scale slab tear was detected at 15° N; instead, a thickening of the Wadati–Benioff zone may mark the edge of a subducted fracture zone. Shallow seismicity and earthquake swarms suggest localized fluid activity. Seismicity was more intense in the northern part of the subduction zone.  
+
+  - **Relation to the Project**:  
+The paper delivers essential insights into regional seismicity and crustal structure, which are key to understanding earthquake generation and distribution in the Lesser Antilles subduction system, which can later be used as a reference in the report's discussion section.
