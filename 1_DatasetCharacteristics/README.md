@@ -16,6 +16,8 @@ The process included numerous steps:
    
    3.2 **Basic statistics**
    
+   3.3 **Comaprison with 2016/2017 satellite datasets.**
+   
 4. **Filtering.**
 
    4.1 **Removal of multiplied coordinates.**
