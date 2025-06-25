@@ -32,4 +32,4 @@ The notebooks are still submitted to changes and far from the final version**
 **[Notebook 2](M2_2016_2017.ipynb)** - shipborne vs satellite 2016/2017  
 **[Notebook 3](M2_gravity_filtering-with_OBS.ipynb)** - initial filtering  
 **[Notebook 4](M2_gravity_filtering_no_OBS.ipynb)** - final filtering  
-**[Notebook 5](M2_gravity_filtering_no_OBS.ipynb)** - bathymetry preparation  
+**[Notebook 5](M2_bathymetry.ipynb)** - bathymetry preparation  
