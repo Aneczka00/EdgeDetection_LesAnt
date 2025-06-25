@@ -176,3 +176,20 @@ The seismic data reveal that the island arc crust beneath the central Lesser Ant
 
   - **Relation to the Project**:  
 This paper is a good reference for Moho depth in the Lesser Antilles zone, which will be useful to choose the right filter for gravity data.
+
+
+- **Source 9**: [Deep structure of the Demerara Plateau: From a volcanic margin to a Transform Marginal Plateau (Museur et al., 2021)]
+
+  - **[Link](https://www.sciencedirect.com/science/article/pii/S0040195120303280)**
+
+  - **Objective**:  
+This study aimed to characterize the deep crustal structure of the Demerara Plateau to better understand its tectonic origin and evolution, particularly in relation to adjacent oceanic domains. A key focus was to evaluate whether the plateau represents a volcanic margin or has a continental origin, and to contribute new insights into the formation of Transform Marginal Plateaus (TMPs) using deep seismic data.
+
+   - **Methods**:  
+Deep-penetrating multichannel reflection and wide-angle seismic data were collected during the 2016 MARGATS cruise, using 80 ocean-bottom seismometers deployed along four profiles. This study focuses on two lines: NE-SW MAR01 (56 OBS) and WNW-ENE MAR02 (37 OBS), with a 6500 in³ airgun array fired every 60 seconds and a 3 km streamer for MCS data. Additional MCS lines from Total SA were used for deeper imaging. Gravity modeling validated the results of WAS. Seismic velocities were converted to densities using the Ludwig, Nafe & Drake (1970) law. Moho depth uncertainty was estimated at ±0.4–0.6 km.
+
+  - **Outcomes**:  
+The Demerara Plateau is underlain by a three-layer crust comprising westward-dipping Seaward Dipping Reflectors (SDRs) in the upper crust (4.5–6.0 km/s), a chaotic middle crust ("Unit A") interpreted as pre-Jurassic continental crust intruded by volcanics, and a high-velocity lower crustal unit (7.2–7.6 km/s) with an average thickness of 5–7 km. The lower crust likely represents underplated magmatic material linked to Jurassic rifting in the west and a possible Cretaceous origin in the east. Moho reflections (PmP) confirm a thick crust under the plateau and rule out a serpentinized mantle origin. Crustal thickness across the Demerara Plateau reaches up to 30–31 km, decreasing significantly southeastward to ~10 km along MAR02, with adjacent oceanic crust only ~5 km thick. Moho depth, expressed in Two-Way Travel Time, increases from ~11 seconds in the west to 14–15 seconds beneath the plateau, highlighting strong lateral variation in both crustal and Moho structure.
+
+  - **Relation to the Project**:  
+Again, a very good reference for Moho depth in the Demarara Plateau region, which can justify the filtering choices.
