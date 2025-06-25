@@ -1,6 +1,6 @@
 # Data Preparation and Characteristics
 
-To prepare the raw free-air anomaly (FAA) satellite-derived datasets (downloaded from https://topex.ucsd.edu/pub/global_grav_1min_SWOT/) and the available shipborne datasets for further processing and Bouguer anomaly computation, multiple notebooks were used.
+To prepare the raw free-air anomaly (FAA) satellite-derived datasets (downloaded from [source](https://topex.ucsd.edu/pub/global_grav_1min_SWOT/)) and the available shipborne datasets for further processing and Bouguer anomaly computation, multiple notebooks were used.
 
 ## General Approach
 
@@ -18,7 +18,7 @@ The process included numerous steps:
 
 5. **Interpolation of the shipborne and satellite data.**
 
-6. **Preparation of the bathymetry data ([GEBCO 20204](https://www.gebco.net/data-products/gridded-bathymetry-data)).**
+6. **Preparation of the bathymetry data ([GEBCO 2024](https://www.gebco.net/data-products/gridded-bathymetry-data)).**
 
 7. **Complete Bouguer anomaly computations using Geosoft's Oasis Montaj software.**
 
