@@ -25,7 +25,7 @@ The process included numerous steps:
 <br>
 
 **_Please note_:  
-All additional files are relevant in one or another way to the project and are therefore kept for the sake of completeness !!**  
+**  
 <br>
 
 **[Notebook](exploratory_data_analysis.ipynb)**
