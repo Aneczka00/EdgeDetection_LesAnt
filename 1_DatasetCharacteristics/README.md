@@ -26,7 +26,7 @@ The process included numerous steps:
 
 5. **Interpolation of the shipborne and satellite data.**
    
-   5.1 **First try on a smaller area.**
+   5.1 **First test on a smaller area.**
    
    5.2 **Interpolation of the whole area of interest**
 
