@@ -165,11 +165,11 @@ The paper delivers essential insights into regional seismicity and crustal struc
 This study aimed to image the deep crustal and upper mantle structure of the central Lesser Antilles island arc, a region with limited existing seismic profiles. Goals included constraining the composition and thickness of the arc crust, understanding crust formation processes, and mapping the geometry of the forearc backstop and décollement zone.
 
    - **Methods**:  
-A 280 km-long wide-angle seismic profile south of Guadeloupe was acquired using 44 ocean-bottom seismometers and a 5-element seismic source array. Coincident multichannel seismic (MCS) data covered the northeastern section. Researchers:
+A 280 km-long wide-angle seismic profile south of Guadeloupe was acquired using 44 ocean-bottom seismometers and a 5-element seismic source array. Coincident multichannel seismic (MCS) data covered the northeastern section. Researchers:  
 
-    a) Used first-arrival travel time tomography (Korenaga et al., 2000) to build an initial velocity model from over 22,500 picks
-    b) Applied pre-stack depth migration to MCS data using the tomography model to resolve upper crustal structure
-    c) Conducted forward modeling with the Zelt & Smith (1992) method using 3,611 secondary arrivals (reflections from Moho, backstop, etc.) to refine the final structural model.  
+      a) Used first-arrival travel time tomography (Korenaga et al., 2000) to build an initial velocity model from over 22,500 picks.  
+      b) Applied pre-stack depth migration to MCS data using the tomography model to resolve upper crustal structure.  
+      c) Conducted forward modeling with the Zelt & Smith (1992) method using 3,611 secondary arrivals (reflections from Moho, backstop, etc.) to refine the final structural       model.  
 
   - **Outcomes**:  
 The seismic data reveal that the island arc crust beneath the central Lesser Antilles is composed of three distinct layers: a ~3 km thick volcanogenic upper crust with velocities below 3.0 km/s, a 10 km thick intermediate-to-felsic middle crust (5.5–6.8 km/s), and a 12 km thick plutonic lower crust with velocities up to 7.3 km/s. The Moho is located at an average depth of 28 km, and upper mantle velocities (~8.0 km/s) show no evidence of serpentinization.
