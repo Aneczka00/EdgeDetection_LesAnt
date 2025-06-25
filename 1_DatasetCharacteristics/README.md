@@ -12,20 +12,40 @@ The process included numerous steps:
   
 3. **Calculating the statistics of the difference between both datasets.**  
 
-   3.1 ****
+   3.1 **Plotting spatial variations of the difference**
+   
+   3.2 **Basic statistics**
    
 4. **Filtering.**
 
+   4.1 **Removal of multiplied coordinates.**
+   
+   4.2 **Statistical removal of anomalous data.**
+   
+   4.3 **Removal of unnecessary OBS lines.**
+
 5. **Interpolation of the shipborne and satellite data.**
+   
+   5.1 **First try on a smaller area.**
+   
+   5.2 **Interpolation of the whole area of interest**
 
 6. **Preparation of the bathymetry data ([GEBCO 2024](https://www.gebco.net/data-products/gridded-bathymetry-data)).**
 
+   6.1 **Interpolating bathymetry data onto a regular grid identical to gravity grid.**
+   
+   6.2 **Merging the GEBCO 2024 and shipborne data.**
+
 7. **Complete Bouguer anomaly computations using Geosoft's Oasis Montaj software.**
+
+   7.1 **Simple Bouguer anomaly.**
+   
+   7.2 **Topographic + Bullard correction.**
 
 <br>
 
 **_Please note_:  
-The notebooks are still submitted to changes and far from the final version**  
+The notebooks are still being submitted to changes and are far from the final version**  
 <br>
 
 **[Notebook 1](M2_gravity.ipynb)** - shipborne vs satellite 2024  
