@@ -28,7 +28,7 @@ The process included numerous steps:
 **  
 <br>
 
-**[Notebook 1](exploratory_data_analysis.ipynb)**
-**[Notebook 2](exploratory_data_analysis.ipynb)**
-**[Notebook 3](exploratory_data_analysis.ipynb)**
-**[Notebook 4](exploratory_data_analysis.ipynb)**
+**[Notebook 1](exploratory_data_analysis.ipynb)**  
+**[Notebook 2](exploratory_data_analysis.ipynb)**  
+**[Notebook 3](exploratory_data_analysis.ipynb)**  
+**[Notebook 4](exploratory_data_analysis.ipynb)**  
