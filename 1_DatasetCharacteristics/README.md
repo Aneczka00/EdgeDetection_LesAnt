@@ -25,10 +25,10 @@ The process included numerous steps:
 <br>
 
 **_Please note_:  
-**  
+The notebooks are still submitted to changes and far from the final version**  
 <br>
 
-**[Notebook 1](exploratory_data_analysis.ipynb)**  
-**[Notebook 2](exploratory_data_analysis.ipynb)**  
+**[Notebook 1](M2_gravity.ipynb)**  
+**[Notebook 2](M2_2016_2017.ipynb)**  
 **[Notebook 3](exploratory_data_analysis.ipynb)**  
 **[Notebook 4](exploratory_data_analysis.ipynb)**  
