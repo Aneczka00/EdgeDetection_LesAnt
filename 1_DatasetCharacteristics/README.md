@@ -30,5 +30,5 @@ The notebooks are still submitted to changes and far from the final version**
 
 **[Notebook 1](M2_gravity.ipynb)**  
 **[Notebook 2](M2_2016_2017.ipynb)**  
-**[Notebook 3](exploratory_data_analysis.ipynb)**  
-**[Notebook 4](exploratory_data_analysis.ipynb)**  
+**[Notebook 3](M2_gravity_filtering-with_OBS.ipynb)**  
+**[Notebook 4](M2_gravity_filtering_no_OBS.ipynb)**  
