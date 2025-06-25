@@ -45,7 +45,7 @@ The process included numerous steps:
 <br>
 
 **_Please note_:  
-The notebooks are still being submitted to changes and are far from the final version**  
+The notebooks are still being submitted to changes and are far from the final version.**  
 <br>
 
 **[Notebook 1](M2_gravity.ipynb)** - shipborne vs satellite 2024  
