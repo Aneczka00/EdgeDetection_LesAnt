@@ -46,12 +46,19 @@ The process included numerous steps:
 
 <br>
 
-**_Please note_:  
-The notebooks are still being submitted to changes and are far from the final version.**  
-<br>
-
 **[Notebook 1](M2_gravity.ipynb)** - shipborne vs satellite 2024  
 **[Notebook 2](M2_2016_2017.ipynb)** - shipborne vs satellite 2016/2017  
 **[Notebook 3](M2_gravity_filtering-with_OBS.ipynb)** - initial filtering  
 **[Notebook 4](M2_gravity_filtering_no_OBS.ipynb)** - final filtering  
-**[Notebook 5](M2_bathymetry.ipynb)** - bathymetry preparation  
+**[Notebook 5](bathy_interp_KDTree.py)** - Interpolating bathymetry using KDTree to speed up the proces
+**[Notebook 6](projecting_bathy_on_gravi_grid.py)** - Projecting bathymetry on gravity grid
+**[Notebook 7](projecting_bathy_on_gravi_grid.py)** - Adjusting bathymetry to a smaller grid
+
+
+**_Additional codes related to the project:_**  
+<br>
+
+**[Notebook 1](earthquakes_depth_slab.py)** - Earthquakes at the depth slab
+**[Notebook 2](earthquakes_depth_slab_3D.py)** - Creating a 3D plot (earthquakes + slab) 
+
+
